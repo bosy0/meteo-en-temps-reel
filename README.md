@@ -3,7 +3,7 @@ Affiche les données météorologiques en temps réel de la ville souhaitée.
 
 créé par Frédéric Marquet & Nathan Bosy
 
-basé sur l'API d'OpenWeather : https://openweathermap.org/api
+Basé sur l'API d'OpenWeather : https://openweathermap.org/api
 
 
 ### Version actuelle : v0.4
