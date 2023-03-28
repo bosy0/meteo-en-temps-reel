@@ -5,8 +5,7 @@ créé par Frédéric Marquet & Nathan Bosy
 
 
 
-### Version actuelle
-v0.4
+### Version actuelle : v0.4
 - Sans interface graphique
 - Fonctionne avec Python
 
